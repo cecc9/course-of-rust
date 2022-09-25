@@ -1,3 +1,3 @@
 fn main() {
-    println!("function main");
+    println!("que fue")
 }
